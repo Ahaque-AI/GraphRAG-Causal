@@ -1,5 +1,7 @@
 # GraphRAG-Causal
 
+![GraphRAG-Causal Architecture](docs/GraphRAG-Architecture.png)
+
 A graph-based Retrieval Augmented Generation (RAG) system for causal inference and visualization.
 
 ## Overview
@@ -25,8 +27,6 @@ The system is composed of three main components:
 - Advanced system prompting for LLMs
 - JSON extraction of causal labels
 - Visual representation of causal graphs
-
-![GraphRAG-Causal Architecture](docs/GraphRAG-Architecture.png)
 
 ## Repository Structure
 
