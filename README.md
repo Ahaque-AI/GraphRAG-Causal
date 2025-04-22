@@ -1,4 +1,4 @@
-![GraphRAG-Causal Logo](docs/GraphRAG-Logo.png)
+![GraphRAG-Causal Logo](docs/GraphRAG-Causal-Logo.png)
 # GraphRAG-Causal
 
 ![GraphRAG-Causal Architecture](docs/GraphRAG-Architecture.png)
