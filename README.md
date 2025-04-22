@@ -1,5 +1,5 @@
 <h1>
-  <img src="docs/GraphRAG-Causal-Logo.jpeg" alt="GraphRAG-Causal Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
+  <img src="docs/GraphRAG-Causal-Logo.jpeg" alt="GraphRAG-Causal Logo" width="100" height="100" style="vertical-align: middle; margin-right: 10px;">
   GraphRAG-Causal
 </h1>
 
