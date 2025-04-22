@@ -1,5 +1,7 @@
-![GraphRAG-Causal Logo](docs/GraphRAG-Causal-Logo.jpeg)
-# GraphRAG-Causal
+<h1>
+  <img src="docs/GraphRAG-Causal-Logo.jpeg" alt="GraphRAG-Causal Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
+  GraphRAG-Causal
+</h1>
 
 ![GraphRAG-Causal Architecture](docs/GraphRAG-Architecture.png)
 
