@@ -1,7 +1,7 @@
-<h1>
-  <img src="docs/GraphRAG-Causal-Logo.jpeg" alt="GraphRAG-Causal Logo" width="250" height="250" style="vertical-align: middle; margin-right: 10px;">
-  GraphRAG-Causal
-</h1>
+<p style="display: flex; align-items: center;">
+  <img src="docs/GraphRAG-Causal-Logo.jpeg" alt="GraphRAG-Causal Logo" width="250" height="250" style="margin-right: 10px;">
+  <span style="font-size: 2em;">GraphRAG-Causal</span>
+</p>
 
 ![GraphRAG-Causal Architecture](docs/GraphRAG-Architecture.png)
 
