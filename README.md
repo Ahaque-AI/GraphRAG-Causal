@@ -1,6 +1,6 @@
 <p style="display: flex; align-items: center;">
   <img src="docs/GraphRAG-Causal-Logo.jpeg" alt="GraphRAG-Causal Logo" width="250" height="250" style="margin-right: 10px;">
-  <span style="font-size: 2em;">GraphRAG-Causal</span>
+  <center> GraphRAG-Causal </center>
 </p>
 
 ![GraphRAG-Causal Architecture](docs/GraphRAG-Architecture.png)
