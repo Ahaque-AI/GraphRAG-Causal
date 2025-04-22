@@ -26,7 +26,7 @@ The system is composed of three main components:
 - JSON extraction of causal labels
 - Visual representation of causal graphs
 
-![GraphRAG-Causal Architecture](docs/GraphRAG_Causal_Architecture.png)
+![GraphRAG-Causal Architecture](docs/GraphRAG-Architecture.png)
 
 ## Repository Structure
 
